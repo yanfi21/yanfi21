@@ -1,4 +1,4 @@
-## Привет 👋
+### y21 dev
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanfi21/yanfi21/output/github-snake-dark.svg">
