@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanfi21/yanfi21/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Змейка" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/output/github-contribution-grid-snake.svg">
+</picture>
